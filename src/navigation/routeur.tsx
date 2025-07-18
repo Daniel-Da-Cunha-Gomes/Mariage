@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import HomeComponent from "../components/pages/Home/HomeComponent";
+import HomeComponent from "../components/pages/Home/page";
 import ScrollToTop from "@/components/Animation/Scroll/ScrollToTop";
 import { TransitionWrapper } from "@/components/Animation/Transition";
 import { ROUTES } from "@/const/routeconst";
