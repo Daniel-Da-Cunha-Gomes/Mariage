@@ -1,4 +1,4 @@
-import { Card, CardContent } from "@/components/Component/ui/card"
+import { Card, CardContent } from "@/components/ui/card"
 import { MapPin, Camera, Music, Utensils, Heart } from "lucide-react"
 import chateau from "@/assets/wedding-details/chateau.webp"
 

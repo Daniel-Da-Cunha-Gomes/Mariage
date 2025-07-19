@@ -1,4 +1,4 @@
-import { Button } from "@/components/Component/ui/button"
+import { Button } from "@/components/ui/button"
 import { Calendar, MapPin } from "lucide-react"
 import bg from "@/assets/Hero/bg.png"
 

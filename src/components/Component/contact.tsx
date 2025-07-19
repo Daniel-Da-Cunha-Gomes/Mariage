@@ -1,7 +1,7 @@
-import { Button } from "@/components/Component/ui/button"
-import { Input } from "@/components/Component/ui/input"
-import { Textarea } from "@/components/Component/ui/textarea"
-import { Card, CardContent } from "@/components/Component/ui/card"
+import { Button } from "@/components/ui/button"
+import { Input } from "@/components/ui/input"
+import { Textarea } from "@/components/ui/textarea"
+import { Card, CardContent } from "@/components/ui/card"
 import { Phone, Mail, MapPin, Clock } from "lucide-react"
 
 export function Contact() {

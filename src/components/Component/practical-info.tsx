@@ -1,4 +1,4 @@
-import { Card, CardContent } from "@/components/Component/ui/card"
+import { Card, CardContent } from "@/components/ui/card"
 import { MapPin, Car, Bed, Gift, Camera, Music } from "lucide-react"
 
 export function PracticalInfo() {
